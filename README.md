@@ -74,8 +74,6 @@ module reg_memory_mailbox;
   mailbox mbox = new();
 
   int memory [0:15];
- 
-endmodule
 
 ```
 ### Testbench File
